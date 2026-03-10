@@ -1,0 +1,73 @@
+[
+  {
+    "id": "tailwind",
+    "name": "Tailwind",
+    "effect": 10,
+    "chance": 15,
+    "type": "bonus"
+  },
+  {
+    "id": "found_bread",
+    "name": "Found Bread Stash",
+    "effect": 15,
+    "chance": 10,
+    "type": "bonus"
+  },
+  {
+    "id": "shortcut",
+    "name": "Shortcut Discovered",
+    "effect": 12,
+    "chance": 8,
+    "type": "bonus"
+  },
+  {
+    "id": "friendly_pigeon",
+    "name": "Friendly Pigeon Help",
+    "effect": 8,
+    "chance": 12,
+    "type": "bonus"
+  },
+  {
+    "id": "city_feast",
+    "name": "City Bread Festival",
+    "effect": 20,
+    "chance": 5,
+    "type": "bonus"
+  },
+
+  {
+    "id": "storm",
+    "name": "Storm",
+    "effect": -10,
+    "chance": 12,
+    "type": "penalty"
+  },
+  {
+    "id": "hawk_attack",
+    "name": "Hawk Attack",
+    "effect": -15,
+    "chance": 10,
+    "type": "penalty"
+  },
+  {
+    "id": "lost_direction",
+    "name": "Lost Direction",
+    "effect": -8,
+    "chance": 15,
+    "type": "penalty"
+  },
+  {
+    "id": "city_smog",
+    "name": "City Smog",
+    "effect": -6,
+    "chance": 10,
+    "type": "penalty"
+  },
+  {
+    "id": "tired_wings",
+    "name": "Tired Wings",
+    "effect": -5,
+    "chance": 13,
+    "type": "penalty"
+  }
+]
