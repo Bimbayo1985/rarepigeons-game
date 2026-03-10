@@ -25,7 +25,6 @@
 "PGNSTRIKE":{"hp":20,"atk":30,"spd":45,"rarity":"common","season":2,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS2C21.png"},
 
 "SQUIDPIGEON":{"hp":40,"atk":35,"spd":50,"rarity":"rare","season":3,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS3C05.png"},
-"PGNCOBBEE":{"hp":30,"atk":35,"spd":40,"rarity":"common","season":3,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/PGNCOBBEE.png"},
 "HORSEGM":{"hp":20,"atk":25,"spd":10,"rarity":"common","season":3,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/HORSEGM.png"},
 
 "MADUROPIGEON":{"hp":80,"atk":70,"spd":50,"rarity":"epic","season":"special","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon000.png"},
