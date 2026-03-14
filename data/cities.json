@@ -1,62 +1,14 @@
 {
-  "kyiv": {
-    "name": "Kyiv",
-    "lat": 50.4501,
-    "lon": 30.5234
-  },
-  "tokyo": {
-    "name": "Tokyo",
-    "lat": 35.6762,
-    "lon": 139.6503
-  },
-  "new_york": {
-    "name": "New York",
-    "lat": 40.7128,
-    "lon": -74.0060
-  },
-  "los_angeles": {
-    "name": "Los Angeles",
-    "lat": 34.0522,
-    "lon": -118.2437
-  },
-  "cairo": {
-    "name": "Cairo",
-    "lat": 30.0444,
-    "lon": 31.2357
-  },
-  "delhi": {
-    "name": "Delhi",
-    "lat": 28.6139,
-    "lon": 77.2090
-  },
-  "london": {
-    "name": "London",
-    "lat": 51.5074,
-    "lon": -0.1278
-  },
-  "rome": {
-    "name": "Rome",
-    "lat": 41.9028,
-    "lon": 12.4964
-  },
-  "cape_town": {
-    "name": "Cape Town",
-    "lat": -33.9249,
-    "lon": 18.4241
-  },
-  "dubai": {
-    "name": "Dubai",
-    "lat": 25.2048,
-    "lon": 55.2708
-  },
-  "singapore": {
-    "name": "Singapore",
-    "lat": 1.3521,
-    "lon": 103.8198
-  },
-  "buenos_aires": {
-    "name": "Buenos Aires",
-    "lat": -34.6037,
-    "lon": -58.3816
-  }
+  "kyiv": [50.4501, 30.5234],
+  "tokyo": [35.6762, 139.6503],
+  "new_york": [40.7128, -74.0060],
+  "los_angeles": [34.0522, -118.2437],
+  "cairo": [30.0444, 31.2357],
+  "delhi": [28.6139, 77.2090],
+  "london": [51.5074, -0.1278],
+  "rome": [41.9028, 12.4964],
+  "cape_town": [-33.9249, 18.4241],
+  "dubai": [25.2048, 55.2708],
+  "singapore": [1.3521, 103.8198],
+  "buenos_aires": [-34.6037, -58.3816]
 }
