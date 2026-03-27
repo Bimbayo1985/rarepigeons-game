@@ -1,73 +1,92 @@
 [
   {
-    "id": "tailwind",
-    "name": "Tailwind",
-    "effect": 10,
-    "chance": 15,
-    "type": "bonus"
+    "id": "europe_festival",
+    "name": "Festival in Europe",
+    "regions": ["europe"],
+    "effect": { "reward": 40 }
   },
   {
-    "id": "found_bread",
-    "name": "Found Bread Stash",
-    "effect": 15,
-    "chance": 10,
-    "type": "bonus"
-  },
-  {
-    "id": "shortcut",
-    "name": "Shortcut Discovered",
-    "effect": 12,
-    "chance": 8,
-    "type": "bonus"
-  },
-  {
-    "id": "friendly_pigeon",
-    "name": "Friendly Pigeon Help",
-    "effect": 8,
-    "chance": 12,
-    "type": "bonus"
-  },
-  {
-    "id": "city_feast",
-    "name": "City Bread Festival",
-    "effect": 20,
-    "chance": 5,
-    "type": "bonus"
+    "id": "europe_storm",
+    "name": "Storm over Europe",
+    "regions": ["europe"],
+    "effect": { "reward": -30 }
   },
 
   {
-    "id": "storm",
-    "name": "Storm",
-    "effect": -10,
-    "chance": 12,
-    "type": "penalty"
+    "id": "asia_trade",
+    "name": "Trade Boom in Asia",
+    "regions": ["asia"],
+    "effect": { "reward": 50 }
   },
   {
-    "id": "hawk_attack",
-    "name": "Hawk Attack",
-    "effect": -15,
-    "chance": 10,
-    "type": "penalty"
+    "id": "asia_typhoon",
+    "name": "Typhoon Season",
+    "regions": ["asia"],
+    "effect": { "reward": -35 }
+  },
+
+  {
+    "id": "na_goldrush",
+    "name": "Gold Rush",
+    "regions": ["north_america"],
+    "effect": { "reward": 45 }
   },
   {
-    "id": "lost_direction",
-    "name": "Lost Direction",
-    "effect": -8,
-    "chance": 15,
-    "type": "penalty"
+    "id": "na_blizzard",
+    "name": "Blizzard",
+    "regions": ["north_america"],
+    "effect": { "reward": -25 }
+  },
+
+  {
+    "id": "sa_festival",
+    "name": "Carnival Season",
+    "regions": ["south_america"],
+    "effect": { "reward": 55 }
   },
   {
-    "id": "city_smog",
-    "name": "City Smog",
-    "effect": -6,
-    "chance": 10,
-    "type": "penalty"
+    "id": "sa_heatwave",
+    "name": "Heatwave",
+    "regions": ["south_america"],
+    "effect": { "reward": -30 }
+  },
+
+  {
+    "id": "africa_trade",
+    "name": "Trade Routes Expansion",
+    "regions": ["africa"],
+    "effect": { "reward": 50 }
   },
   {
-    "id": "tired_wings",
-    "name": "Tired Wings",
-    "effect": -5,
-    "chance": 13,
-    "type": "penalty"
+    "id": "africa_drought",
+    "name": "Severe Drought",
+    "regions": ["africa"],
+    "effect": { "reward": -35 }
+  },
+
+  {
+    "id": "oceania_open",
+    "name": "Open Sky Routes",
+    "regions": ["oceania"],
+    "effect": { "reward": 60 }
+  },
+  {
+    "id": "oceania_storm",
+    "name": "Ocean Storms",
+    "regions": ["oceania"],
+    "effect": { "reward": -40 }
+  },
+
+  {
+    "id": "middle_east_trade",
+    "name": "Trade Surge",
+    "regions": ["middle_east"],
+    "effect": { "reward": 45 }
+  },
+  {
+    "id": "middle_east_sandstorm",
+    "name": "Sandstorms",
+    "regions": ["middle_east"],
+    "effect": { "reward": -30 }
   }
 ]
