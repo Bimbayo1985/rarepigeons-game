@@ -1,92 +1,175 @@
 [
   {
-    "id": "europe_festival",
-    "name": "Festival in Europe",
+    "id": "eu_tailwind",
+    "name": "Tailwind Boost",
+    "type": "positive",
     "regions": ["europe"],
-    "effect": { "reward": 40 }
+    "effect": { "reward": 15 }
   },
   {
-    "id": "europe_storm",
-    "name": "Storm over Europe",
+    "id": "eu_festival",
+    "name": "Bread Festival",
+    "type": "positive",
     "regions": ["europe"],
-    "effect": { "reward": -30 }
+    "effect": { "reward": 10 }
+  },
+  {
+    "id": "eu_storm",
+    "name": "Heavy Storm",
+    "type": "negative",
+    "regions": ["europe"],
+    "effect": { "reward": -15 }
+  },
+  {
+    "id": "eu_fog",
+    "name": "Dense Fog",
+    "type": "negative",
+    "regions": ["europe"],
+    "effect": { "reward": -10 }
   },
 
   {
-    "id": "asia_trade",
-    "name": "Trade Boom in Asia",
-    "regions": ["asia"],
-    "effect": { "reward": 50 }
-  },
-  {
-    "id": "asia_typhoon",
-    "name": "Typhoon Season",
-    "regions": ["asia"],
-    "effect": { "reward": -35 }
-  },
-
-  {
-    "id": "na_goldrush",
-    "name": "Gold Rush",
+    "id": "na_tailwind",
+    "name": "Jetstream Boost",
+    "type": "positive",
     "regions": ["north_america"],
-    "effect": { "reward": 45 }
+    "effect": { "reward": 15 }
   },
   {
-    "id": "na_blizzard",
-    "name": "Blizzard",
+    "id": "na_feast",
+    "name": "Downtown Feast",
+    "type": "positive",
     "regions": ["north_america"],
-    "effect": { "reward": -25 }
+    "effect": { "reward": 12 }
+  },
+  {
+    "id": "na_storm",
+    "name": "Thunderstorm Front",
+    "type": "negative",
+    "regions": ["north_america"],
+    "effect": { "reward": -15 }
+  },
+  {
+    "id": "na_hawks",
+    "name": "Hawk Patrol",
+    "type": "negative",
+    "regions": ["north_america"],
+    "effect": { "reward": -10 }
   },
 
   {
-    "id": "sa_festival",
-    "name": "Carnival Season",
+    "id": "sa_tailwind",
+    "name": "Warm Tailwind",
+    "type": "positive",
     "regions": ["south_america"],
-    "effect": { "reward": 55 }
+    "effect": { "reward": 15 }
   },
   {
-    "id": "sa_heatwave",
-    "name": "Heatwave",
+    "id": "sa_market",
+    "name": "Open Market Crumbs",
+    "type": "positive",
     "regions": ["south_america"],
-    "effect": { "reward": -30 }
+    "effect": { "reward": 10 }
+  },
+  {
+    "id": "sa_rain",
+    "name": "Tropical Rain",
+    "type": "negative",
+    "regions": ["south_america"],
+    "effect": { "reward": -15 }
+  },
+  {
+    "id": "sa_crosswind",
+    "name": "Mountain Crosswinds",
+    "type": "negative",
+    "regions": ["south_america"],
+    "effect": { "reward": -10 }
   },
 
   {
-    "id": "africa_trade",
-    "name": "Trade Routes Expansion",
+    "id": "asia_tailwind",
+    "name": "Fast Air Current",
+    "type": "positive",
+    "regions": ["asia"],
+    "effect": { "reward": 15 }
+  },
+  {
+    "id": "asia_temple",
+    "name": "Temple Courtyard Feast",
+    "type": "positive",
+    "regions": ["asia"],
+    "effect": { "reward": 10 }
+  },
+  {
+    "id": "asia_monsoon",
+    "name": "Monsoon Winds",
+    "type": "negative",
+    "regions": ["asia"],
+    "effect": { "reward": -15 }
+  },
+  {
+    "id": "asia_smog",
+    "name": "City Smog",
+    "type": "negative",
+    "regions": ["asia"],
+    "effect": { "reward": -10 }
+  },
+
+  {
+    "id": "af_tailwind",
+    "name": "Savanna Tailwind",
+    "type": "positive",
     "regions": ["africa"],
-    "effect": { "reward": 50 }
+    "effect": { "reward": 15 }
   },
   {
-    "id": "africa_drought",
-    "name": "Severe Drought",
+    "id": "af_harvest",
+    "name": "Harvest Spill",
+    "type": "positive",
     "regions": ["africa"],
-    "effect": { "reward": -35 }
+    "effect": { "reward": 10 }
+  },
+  {
+    "id": "af_heat",
+    "name": "Dry Heat Wave",
+    "type": "negative",
+    "regions": ["africa"],
+    "effect": { "reward": -15 }
+  },
+  {
+    "id": "af_predators",
+    "name": "Predator Alert",
+    "type": "negative",
+    "regions": ["africa"],
+    "effect": { "reward": -10 }
   },
 
   {
-    "id": "oceania_open",
-    "name": "Open Sky Routes",
+    "id": "oc_tailwind",
+    "name": "Ocean Tailwind",
+    "type": "positive",
     "regions": ["oceania"],
-    "effect": { "reward": 60 }
+    "effect": { "reward": 15 }
   },
   {
-    "id": "oceania_storm",
-    "name": "Ocean Storms",
+    "id": "oc_harbor",
+    "name": "Harbor Grain Spill",
+    "type": "positive",
     "regions": ["oceania"],
-    "effect": { "reward": -40 }
-  },
-
-  {
-    "id": "middle_east_trade",
-    "name": "Trade Surge",
-    "regions": ["middle_east"],
-    "effect": { "reward": 45 }
+    "effect": { "reward": 10 }
   },
   {
-    "id": "middle_east_sandstorm",
-    "name": "Sandstorms",
-    "regions": ["middle_east"],
-    "effect": { "reward": -30 }
+    "id": "oc_storm",
+    "name": "Coastal Storm",
+    "type": "negative",
+    "regions": ["oceania"],
+    "effect": { "reward": -15 }
+  },
+  {
+    "id": "oc_crosswind",
+    "name": "Ocean Crosswind",
+    "type": "negative",
+    "regions": ["oceania"],
+    "effect": { "reward": -10 }
   }
 ]
