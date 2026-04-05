@@ -1,49 +1,362 @@
 {
-"RAREPIGEON":{"hp":100,"atk":100,"spd":100,"rarity":"mythic","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon001.png"},
-"NAKAPIGEON":{"hp":30,"atk":20,"spd":40,"rarity":"common","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon002.png"},
-"EXITBIRD":{"hp":60,"atk":50,"spd":70,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon003.png"},
-"BREADWHALE":{"hp":25,"atk":30,"spd":40,"rarity":"common","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon004.png"},
-"ORDIMSG":{"hp":40,"atk":25,"spd":30,"rarity":"common","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon005.png"},
-"FAKERAREO":{"hp":30,"atk":30,"spd":45,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon006.png"},
-"CEMHODLER":{"hp":50,"atk":60,"spd":40,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon007.png"},
-"FLOORLOOK":{"hp":45,"atk":50,"spd":25,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon008.png"},
-"FOMOPIJO":{"hp":30,"atk":20,"spd":50,"rarity":"common","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon009.png"},
-"TRASHRICH":{"hp":45,"atk":30,"spd":25,"rarity":"common","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon010.png"},
-"PUMPNOAT":{"hp":30,"atk":50,"spd":25,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon011.png"},
-"RAGESELL":{"hp":45,"atk":30,"spd":25,"rarity":"common","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon012.png"},
-"POCKETOAT":{"hp":25,"atk":30,"spd":40,"rarity":"common","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon013.png"},
-"NOOTHODL":{"hp":45,"atk":50,"spd":20,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon014.png"},
-"MOONFLYER":{"hp":20,"atk":30,"spd":45,"rarity":"common","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon015.png"},
-"MORNINGREK":{"hp":50,"atk":70,"spd":60,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon016.png"},
-"UPONLYJO":{"hp":40,"atk":20,"spd":45,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon017.png"},
-"PIGEONCORN":{"hp":60,"atk":60,"spd":60,"rarity":"epic","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon018.png"},
-"SECRETPJO":{"hp":50,"atk":45,"spd":30,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon019.png"},
-"TETHEREDPGON":{"hp":60,"atk":50,"spd":35,"rarity":"rare","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon020.png"},
-"DESTROYERPGN":{"hp":60,"atk":50,"spd":60,"rarity":"epic","season":1,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon021.png"},
-
-"DJPIJO":{"hp":35,"atk":35,"spd":45,"rarity":"rare","season":2,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS2C09.png"},
-"PGNSTRIKE":{"hp":20,"atk":30,"spd":45,"rarity":"common","season":2,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS2C21.png"},
-
-"SQUIDPIGEON":{"hp":40,"atk":35,"spd":50,"rarity":"rare","season":3,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS3C05.png"},
-"HORSEGM":{"hp":20,"atk":25,"spd":10,"rarity":"common","season":3,"image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/HORSEGM.png"},
-
-"MADUROPIGEON":{"hp":80,"atk":70,"spd":50,"rarity":"epic","season":"special","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon000.png"},
-"JDOGPIGEON":{"hp":90,"atk":80,"spd":70,"rarity":"mythic","season":"special","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/jdogpigeon.png"},
-"PENPENGEON":{"hp":85,"atk":30,"spd":60,"rarity":"rare","season":"special","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/PENPENGEON.png"},
-"LFGSWARM":{"hp":25,"atk":30,"spd":40,"rarity":"common","season":"special","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/LFGSWARM.png"},
-"THEARCHIVIST":{"hp":90,"atk":90,"spd":80,"rarity":"mythic","season":"special","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S2GOLD.png"},
-"THEINDEXER":{"hp":80,"atk":80,"spd":70,"rarity":"mythic","season":"special","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S2SILVER.png"},
-"THEGATHERER":{"hp":60,"atk":50,"spd":40,"rarity":"rare","season":"special","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S2WOOD.png"},
-
-"GALLERYPGN":{"hp":20,"atk":10,"spd":25,"rarity":"common","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists00.png"},
-"DALIPGN":{"hp":45,"atk":40,"spd":35,"rarity":"rare","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists01.png"},
-"PICASSOPGN":{"hp":35,"atk":45,"spd":50,"rarity":"rare","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists02.png"},
-"VANGOGHPGN":{"hp":40,"atk":30,"spd":30,"rarity":"common","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists03.png"},
-"HOKUSAIPGN":{"hp":30,"atk":35,"spd":40,"rarity":"rare","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists04.png"},
-"MUNCHPGN":{"hp":35,"atk":30,"spd":40,"rarity":"rare","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists05.png"},
-"MAGRITTEPGN":{"hp":35,"atk":40,"spd":35,"rarity":"rare","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists06.png"},
-"DARGERPGN":{"hp":40,"atk":35,"spd":35,"rarity":"rare","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists07.png"},
-"DAVINCIPGN":{"hp":50,"atk":40,"spd":35,"rarity":"rare","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists08.png"},
-"REMBRANDTPGN":{"hp":45,"atk":40,"spd":30,"rarity":"rare","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists09.png"},
-"ROCKWELLPGN":{"hp":45,"atk":35,"spd":30,"rarity":"rare","season":"artist","image":"https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists10.png"}
+  "RAREPIGEON": {
+    "hp": 100,
+    "atk": 100,
+    "spd": 100,
+    "rarity": "mythic",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon001.png"
+  },
+  "NAKAPIGEON": {
+    "hp": 30,
+    "atk": 20,
+    "spd": 40,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon002.png"
+  },
+  "EXITBIRD": {
+    "hp": 30,
+    "atk": 20,
+    "spd": 40,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon003.png"
+  },
+  "BREADWHALE": {
+    "hp": 25,
+    "atk": 30,
+    "spd": 40,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon004.png"
+  },
+  "ORDIMSG": {
+    "hp": 40,
+    "atk": 25,
+    "spd": 30,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon005.png"
+  },
+  "FAKERAREO": {
+    "hp": 30,
+    "atk": 30,
+    "spd": 45,
+    "rarity": "rare",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon006.png"
+  },
+  "CEMHODLER": {
+    "hp": 40,
+    "atk": 25,
+    "spd": 35,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon007.png"
+  },
+  "FLOORLOOK": {
+    "hp": 35,
+    "atk": 45,
+    "spd": 20,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon008.png"
+  },
+  "FOMOPIJO": {
+    "hp": 30,
+    "atk": 20,
+    "spd": 50,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon009.png"
+  },
+  "TRASHRICH": {
+    "hp": 45,
+    "atk": 30,
+    "spd": 25,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon010.png"
+  },
+  "PUMPNOAT": {
+    "hp": 30,
+    "atk": 40,
+    "spd": 25,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon011.png"
+  },
+  "RAGESELL": {
+    "hp": 45,
+    "atk": 30,
+    "spd": 25,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon012.png"
+  },
+  "POCKETOAT": {
+    "hp": 25,
+    "atk": 30,
+    "spd": 40,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon013.png"
+  },
+  "NOOTHODL": {
+    "hp": 40,
+    "atk": 40,
+    "spd": 15,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon014.png"
+  },
+  "MOONFLYER": {
+    "hp": 20,
+    "atk": 30,
+    "spd": 45,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon015.png"
+  },
+  "MORNINGREK": {
+    "hp": 40,
+    "atk": 25,
+    "spd": 30,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon016.png"
+  },
+  "UPONLYJO": {
+    "hp": 40,
+    "atk": 20,
+    "spd": 40,
+    "rarity": "common",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon017.png"
+  },
+  "PIGEONCORN": {
+    "hp": 40,
+    "atk": 40,
+    "spd": 40,
+    "rarity": "rare",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon018.png"
+  },
+  "SECRETPJO": {
+    "hp": 50,
+    "atk": 45,
+    "spd": 30,
+    "rarity": "rare",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon019.png"
+  },
+  "TETHEREDPGON": {
+    "hp": 60,
+    "atk": 50,
+    "spd": 35,
+    "rarity": "rare",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon020.png"
+  },
+  "DESTROYERPGN": {
+    "hp": 35,
+    "atk": 40,
+    "spd": 40,
+    "rarity": "rare",
+    "season": 1,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon021.png"
+  },
+  "DJPIJO": {
+    "hp": 60,
+    "atk": 60,
+    "spd": 60,
+    "rarity": "epic",
+    "season": 2,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS2C09.png"
+  },
+  "PGNSTRIKE": {
+    "hp": 20,
+    "atk": 30,
+    "spd": 45,
+    "rarity": "common",
+    "season": 2,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS2C21.png"
+  },
+  "SQUIDPIGEON": {
+    "hp": 30,
+    "atk": 30,
+    "spd": 50,
+    "rarity": "rare",
+    "season": 3,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS3C05.png"
+  },
+  "HAIRPIGEON": {
+    "hp": 70,
+    "atk": 80,
+    "spd": 60,
+    "rarity": "mythic",
+    "season": 3,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS3C16.png"
+  },
+  "PIGEONSTEVE": {
+    "hp": 25,
+    "atk": 30,
+    "spd": 40,
+    "rarity": "common",
+    "season": 3,
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/dividend032026.png"
+  },
+  "MADUROPIGEON": {
+    "hp": 80,
+    "atk": 70,
+    "spd": 50,
+    "rarity": "epic",
+    "season": "special",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeon000.png"
+  },
+  "JDOGPIGEON": {
+    "hp": 90,
+    "atk": 80,
+    "spd": 70,
+    "rarity": "mythic",
+    "season": "special",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/jdogpigeon.png"
+  },
+  "PENPENGEON": {
+    "hp": 85,
+    "atk": 50,
+    "spd": 65,
+    "rarity": "epic",
+    "season": "special",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/PENPENGEON.png"
+  },
+  "LFGSWARM": {
+    "hp": 25,
+    "atk": 30,
+    "spd": 40,
+    "rarity": "common",
+    "season": "special",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/LFGSWARM.png"
+  },
+  "THEARCHIVIST": {
+    "hp": 90,
+    "atk": 90,
+    "spd": 80,
+    "rarity": "mythic",
+    "season": "special",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S2GOLD.png"
+  },
+  "THEINDEXER": {
+    "hp": 60,
+    "atk": 70,
+    "spd": 70,
+    "rarity": "epic",
+    "season": "special",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S2SILVER.png"
+  },
+  "THEGATHERER": {
+    "hp": 60,
+    "atk": 50,
+    "spd": 60,
+    "rarity": "epic",
+    "season": "special",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S2WOOD.png"
+  },
+  "HORSEGM": {
+    "hp": 20,
+    "atk": 25,
+    "spd": 10,
+    "rarity": "common",
+    "season": "special",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/HORSEGM.png"
+  },
+  "GALLERYPGN": {
+    "hp": 20,
+    "atk": 10,
+    "spd": 25,
+    "rarity": "common",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists00.png"
+  },
+  "DALIPGN": {
+    "hp": 45,
+    "atk": 40,
+    "spd": 35,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists01.png"
+  },
+  "PICASSOPGN": {
+    "hp": 35,
+    "atk": 45,
+    "spd": 50,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists02.png"
+  },
+  "VANGOGHPGN": {
+    "hp": 40,
+    "atk": 35,
+    "spd": 35,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists03.png"
+  },
+  "HOKUSAIPGN": {
+    "hp": 30,
+    "atk": 35,
+    "spd": 40,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists04.png"
+  },
+  "MUNCHPGN": {
+    "hp": 35,
+    "atk": 50,
+    "spd": 40,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists05.png"
+  },
+  "MAGRITTEPGN": {
+    "hp": 40,
+    "atk": 40,
+    "spd": 50,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists06.png"
+  },
+  "DARGERPGN": {
+    "hp": 50,
+    "atk": 35,
+    "spd": 35,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists07.png"
+  },
+  "DAVINCIPGN": {
+    "hp": 60,
+    "atk": 20,
+    "spd": 40,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists08.png"
+  },
+  "REMBRANDTPGN": {
+    "hp": 35,
+    "atk": 35,
+    "spd": 40,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists09.png"
+  },
+  "ROCKWELLPGN": {
+    "hp": 45,
+    "atk": 30,
+    "spd": 45,
+    "rarity": "rare",
+    "season": "artist",
+    "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists10.png"
+  }
 }
