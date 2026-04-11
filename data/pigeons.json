@@ -358,5 +358,21 @@
     "rarity": "rare",
     "season": "artist",
     "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists10.png"
-  }
+  },
+  "NOLANPGN": {
+  "hp": 50,
+  "atk": 40,
+  "spd": 40,
+  "rarity": "rare",
+  "season": "artist",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/Artists11.png"
+},
+"SOGPIGEON": {
+  "hp": 80,
+  "atk": 75,
+  "spd": 70,
+  "rarity": "mythic",
+  "season": 4,
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS4C12.png"
+}
 }
