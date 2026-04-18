@@ -374,5 +374,13 @@
   "rarity": "mythic",
   "season": 4,
   "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS4C12.png"
+},
+"PGNALIEN": {
+  "hp": 60,
+  "atk": 70,
+  "spd": 55,
+  "rarity": "epic",
+  "season": 4,
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS4C13.png"
 }
 }
