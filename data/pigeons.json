@@ -398,5 +398,29 @@
   "rarity": "common",
   "season": 4,
   "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/PIGEONPOST.png"
+},
+"THESCIENTIST": {
+  "hp": 50,
+  "atk": 60,
+  "spd": 40,
+  "rarity": "rare",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S3WOOD.gif"
+},
+"THESYNCHRO": {
+  "hp": 60,
+  "atk": 70,
+  "spd": 65,
+  "rarity": "epic",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S3SILVER.gif"
+},
+"THECUSTODIAN": {
+  "hp": 80,
+  "atk": 70,
+  "spd": 90,
+  "rarity": "mythic",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S3GOLD.gif"
 }
 }
