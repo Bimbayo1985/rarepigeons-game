@@ -382,5 +382,21 @@
   "rarity": "epic",
   "season": 4,
   "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/pigeonS4C19.png?v=2"
+},
+"ESCHERPIGEON": {
+  "hp": 40,
+  "atk": 40,
+  "spd": 55,
+  "rarity": "rare",
+  "season": "artist",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/ESCHERPIGEON.png"
+},
+"PIGEONPOST": {
+  "hp": 25,
+  "atk": 35,
+  "spd": 30,
+  "rarity": "common",
+  "season": 4,
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/PIGEONPOST.png"
 }
 }
