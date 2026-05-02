@@ -422,5 +422,85 @@
   "rarity": "mythic",
   "season": "special",
   "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/S3GOLD.gif"
+},
+"ETHEREUMPGN": {
+  "hp": 85,
+  "atk": 75,
+  "spd": 65,
+  "rarity": "mythic",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/ETHEREUMPGN.png"
+},
+"SAMURAIPGN": {
+  "hp": 65,
+  "atk": 75,
+  "spd": 55,
+  "rarity": "epic",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/SAMURAIPIGEON.png"
+},
+"BORGPIGEON": {
+  "hp": 70,
+  "atk": 65,
+  "spd": 50,
+  "rarity": "epic",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/BORGPIGEON.png"
+},
+"CAESARPGN": {
+  "hp": 35,
+  "atk": 45,
+  "spd": 50,
+  "rarity": "rare",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/CAESARPGN.png"
+},
+"CLEOPATRAPGN": {
+  "hp": 50,
+  "atk": 35,
+  "spd": 40,
+  "rarity": "rare",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/CLEOPATRAPGN.png"
+},
+"CHIHUAHUAPGN": {
+  "hp": 30,
+  "atk": 35,
+  "spd": 35,
+  "rarity": "common",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/CHIHUAHUAPGN.png"
+},
+"GTAPIGEON": {
+  "hp": 30,
+  "atk": 30,
+  "spd": 25,
+  "rarity": "common",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/GTAPIGEON.png"
+},
+"JANITORPGN": {
+  "hp": 35,
+  "atk": 30,
+  "spd": 25,
+  "rarity": "common",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/JANITORPIGEON.png"
+},
+"MARIOPIGEON": {
+  "hp": 25,
+  "atk": 30,
+  "spd": 40,
+  "rarity": "common",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/MARIOPIGEON.png"
+},
+"BOXERPGN": {
+  "hp": 30,
+  "atk": 25,
+  "spd": 40,
+  "rarity": "common",
+  "season": "special",
+  "image": "https://raw.githubusercontent.com/Bimbayo1985/rare-pigeons-assets/refs/heads/main/images/BOXERPGN.png"
 }
 }
